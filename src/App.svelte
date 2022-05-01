@@ -5,6 +5,8 @@
   export let bookmarks;
 </script>
 
+#boilerplate
+
 <div class={$theme === "dark" ? "wrap theme-dark" : "wrap theme-light"}>
   <button
     class="change-theme"
